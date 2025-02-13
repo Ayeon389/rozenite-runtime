@@ -9,5 +9,5 @@ This repository provides two projects,
 
 # List of Rozenite repositories.
 * [The Runtime](https://github.com/Ayeon389/rozenite-runtime)
-* [The Bootstrap Compiler](https://github.com/Ayeon389/rozenite-compiler)
+* [The Bootstrap Environment](https://github.com/Ayeon389/rozenite-bootstrap-env)
 * [The Specification's For Rozenite](https://github.com/Ayeon389/rozenite-spec)
