@@ -1,0 +1,8 @@
+# Broadly speaking what is Rozenite?
+Rozenite is an embeddable lightweight efficient, statically typed, procedural programming language.
+
+# Okay so, what's inside this repository?
+This repository provides two projects,
+
+* A C99 library providing a configurable implementation of the Rozenite VM.
+* A command-line program for interacting with the C99 library, for cases when you aren't embedding Rozenite.
